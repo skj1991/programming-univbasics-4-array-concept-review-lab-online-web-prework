@@ -1,5 +1,4 @@
 def find_element_index(array, value_to_find)
-<<<<<<< HEAD
   array.length.times { |index|
   puts array[index]
 }
